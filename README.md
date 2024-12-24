@@ -15,17 +15,19 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 
 ### 💻 Skills & Technologies  
 
-![HTML](https://img.shields.io/badge/HTML-Black?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-Black?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Black?style=for-the-badge&logo=javascript&logoColor=yellow)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Black?style=for-the-badge&logo=typescript&logoColor=blue)  
-![React](https://img.shields.io/badge/React-Black?style=for-the-badge&logo=react&logoColor=blue)  
-![Next.js](https://img.shields.io/badge/Next.js-Black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Black?style=for-the-badge&logo=bootstrap&logoColor=purple)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Black?style=for-the-badge&logo=tailwind-css&logoColor=blue)  
-![Git](https://img.shields.io/badge/Git-Black?style=for-the-badge&logo=git&logoColor=orange)  
-![Shadcn](https://img.shields.io/badge/Shadcn-Black?style=for-the-badge&logo=webflow&logoColor=cyan)  
-![MagicUI](https://img.shields.io/badge/MagicUI-Black?style=for-the-badge&logo=tailwind-css&logoColor=magenta)  
+<p>
+  <img src="https://img.shields.io/badge/HTML-Black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-Black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-Black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-Black?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-Black?style=for-the-badge&logo=react&logoColor=blue" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-Black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-Black?style=for-the-badge&logo=bootstrap&logoColor=purple" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Black?style=for-the-badge&logo=tailwind-css&logoColor=blue" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-Black?style=for-the-badge&logo=git&logoColor=orange" alt="Git" />
+  <img src="https://img.shields.io/badge/Shadcn-Black?style=for-the-badge&logo=webflow&logoColor=cyan" alt="Shadcn" />
+  <img src="https://img.shields.io/badge/MagicUI-Black?style=for-the-badge&logo=tailwind-css&logoColor=magenta" alt="MagicUI" />
+</p>
 
 ---
 
@@ -51,4 +53,6 @@ I’m a self-driven learner who enjoys turning complex ideas into simple, functi
 
 ---
 
-*This README is designed for dark mode lovers! 😎*  
+### 🌈 Thank You for Visiting!  
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!

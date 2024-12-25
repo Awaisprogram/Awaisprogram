@@ -4,11 +4,6 @@
 
 I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in creating modern, responsive, and user-friendly web applications. Currently, I'm diving deep into **Web 3.0, Cloud Computing**, and **Generative AI** as part of an exciting program at the **Governor House**.
 
----
-
-### 📊 GitHub Highlights  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisprogram&layout=compact&theme=dark)](https://github.com/Awaisprogram)
 
 ---
 

@@ -8,7 +8,6 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 
 ### 📊 GitHub Highlights  
 
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisprogram&layout=compact&theme=dark)](https://github.com/Awaisprogram)
 
 ---
@@ -16,17 +15,17 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 ### 💻 Skills & Technologies  
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-Black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-Black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-Black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-Black?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-Black?style=for-the-badge&logo=react&logoColor=blue" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-Black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-Black?style=for-the-badge&logo=bootstrap&logoColor=purple" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-Black?style=for-the-badge&logo=tailwind-css&logoColor=blue" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-Black?style=for-the-badge&logo=git&logoColor=orange" alt="Git" />
-  <img src="https://img.shields.io/badge/Shadcn-Black?style=for-the-badge&logo=webflow&logoColor=cyan" alt="Shadcn" />
-  <img src="https://img.shields.io/badge/MagicUI-Black?style=for-the-badge&logo=tailwind-css&logoColor=magenta" alt="MagicUI" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Shadcn-%2300FFFF.svg?style=flat&logo=webflow&logoColor=black" alt="Shadcn" />
+  <img src="https://img.shields.io/badge/MagicUI-%23FF69B4.svg?style=flat&logo=tailwind-css&logoColor=black" alt="MagicUI" />
 </p>
 
 ---
@@ -42,7 +41,7 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 ### 📬 Let's Connect  
 
 - **LinkedIn**: [Awais Mehmood](https://www.linkedin.com/in/awais-mehmood-903500309/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BW9GA%2FY20SMiZRjAfmUv6FQ%3D%3D)  
-- **Portfolio**: [My Website](next-js-portfolio-six-nu.vercel.app)  
+- **Portfolio**: [My Website](https://next-js-portfolio-six-nu.vercel.app)  
 - **Email**: [awaismehmood@gmail.com](mailto:awaisbinmehmoodahmed@gmail.com)  
 
 ---

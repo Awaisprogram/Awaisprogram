@@ -1,9 +1,16 @@
+<div style="background-color: black; padding: 20px; border-radius: 8px; color: white;">
+
 # Hi there, I'm Awais Mehmood (Ash Shaikh) 👋  
 
 ### 🌟 Front-End Developer | Passionate Learner  
 
 I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in creating modern, responsive, and user-friendly web applications. Currently, I'm diving deep into **Web 3.0, Cloud Computing**, and **Generative AI** as part of an exciting program at the **Governor House**.
 
+---
+
+### 📊 GitHub Highlights  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisprogram&layout=compact&theme=dark)](https://github.com/Awaisprogram)
 
 ---
 
@@ -45,8 +52,4 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 
 I’m a self-driven learner who enjoys turning complex ideas into simple, functional designs. Let’s build something awesome together!  
 
----
-
-### 🌈 Thank You for Visiting!  
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+</div>

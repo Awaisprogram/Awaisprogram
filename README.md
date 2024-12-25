@@ -41,7 +41,7 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 
 ### 📬 Let's Connect  
 
-- **LinkedIn**: [Awais Mehmood]([https://www.linkedin.com/in/AwaisMehmood](https://www.linkedin.com/in/awais-mehmood-903500309/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BW9GA%2FY20SMiZRjAfmUv6FQ%3D%3D))  
+- **LinkedIn**: [Awais Mehmood]([https://www.linkedin.com/in/awais-mehmood-903500309/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BW9GA%2FY20SMiZRjAfmUv6FQ%3D%3D])  
 - **Portfolio**: [My Website](https://yourportfolio.com)  
 - **Email**: [awaismehmood@example.com](mailto:awaisbinmehmoodahmed@gmail.com)  
 

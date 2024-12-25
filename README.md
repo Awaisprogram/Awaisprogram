@@ -8,7 +8,7 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 
 ### 📊 GitHub Highlights  
 
-[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awaisprogram&show_icons=true&theme=dark)](https://github.com/Awaisprogram)  
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisprogram&layout=compact&theme=dark)](https://github.com/Awaisprogram)
 
 ---
@@ -41,9 +41,9 @@ I'm Awais, a **Front-End Developer** based in Karachi, Pakistan. I specialize in
 
 ### 📬 Let's Connect  
 
-- **LinkedIn**: [Awais Mehmood](https://www.linkedin.com/in/awaisprogram)  
+- **LinkedIn**: [Awais Mehmood](https://www.linkedin.com/in/AwaisMehmood)  
 - **Portfolio**: [My Website](https://yourportfolio.com)  
-- **Email**: [awaismehmood@example.com](mailto:awaismehmood@example.com)  
+- **Email**: [awaismehmood@example.com](mailto:awaisbinmehmoodahmed@gmail.com)  
 
 ---
 

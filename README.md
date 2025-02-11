@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/your-profile-image.png" alt="Profile Picture" width="150px" style="border-radius: 50%; margin-bottom: 20px;" />
-</div>
-
 <div style="background-color: black; padding: 20px; border-radius: 8px; color: white;">
   
 # 👋 Hi there, I'm Awais Mehmood (Ash Shaikh)  
@@ -43,9 +39,10 @@ Here are some of my recent projects that showcase my skills:
 - **Live Demo**: [My Portfolio](https://next-js-portfolio-six-nu.vercel.app)
 
 #### 2. **E-commerce Store**
-- **Tech Stack**: React, TypeScript, Bootstrap  
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Shadcn  
 - **Description**: A fully functional e-commerce store with product listings, cart functionality, and payment integration.  
-- **Live Demo**: [Coming Soon]
+- **Live Demo**: [Bandage](
+https://marketplace-git-main-awaisprograms-projects.vercel.app)
 
 #### 3. **AI-Powered Chatbot**
 - **Tech Stack**: React, Node.js, Generative AI  

@@ -75,8 +75,6 @@ I’m a self-driven learner who enjoys turning complex ideas into simple, functi
 
 ### 🏆 **Achievements & Certifications**  
 - **Certified Front-End Developer** - Governor House Program  
-- **AWS Cloud Practitioner Certification** - [Link to Certification]  
-- **Generative AI Workshop** - [Link to Workshop]  
 
 ---
 

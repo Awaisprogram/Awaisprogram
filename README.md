@@ -36,7 +36,7 @@ Here are some of my recent projects that showcase my skills:
 #### 1. **Portfolio Website**
 - **Tech Stack**: Next.js, Tailwind CSS, Shadcn  
 - **Description**: A personal portfolio website to showcase my work, skills, and experience.  
-- **Live Demo**: [My Portfolio](https://next-js-portfolio-six-nu.vercel.app)
+- **Live Demo**: [My Portfolio](https://next-portfolio-pi-pink.vercel.app/)
 
 #### 2. **E-commerce Store**
 - **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Shadcn  

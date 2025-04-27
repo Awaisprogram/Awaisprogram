@@ -45,9 +45,9 @@ Here are some of my recent projects that showcase my skills:
 https://marketplace-git-main-awaisprograms-projects.vercel.app)
 
 #### 3. **AI-Powered Chatbot**
-- **Tech Stack**: React, Node.js, Generative AI  
+- **Tech Stack**: Chanlit and Generative AI  
 - **Description**: An AI-powered chatbot integrated with a web application to assist users with FAQs and customer support.  
-- **Live Demo**: [Coming Soon]
+- **Live Demo**: [Chatbot](https://simplechatbot-production.up.railway.app/)
 
 ---
 

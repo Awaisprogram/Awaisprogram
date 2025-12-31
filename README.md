@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Awais Mehmood
 
----
-
-## 💫 About Me
-
 ### 🚀 Full-Stack Developer | AI Engineer | Open Source Enthusiast
 
 *Building intelligent, scalable web applications with modern technologies*
 
 I'm a passionate **Full-Stack Developer** specializing in building high-performance web applications with integrated AI capabilities. Currently pursuing my **BS in Software Engineering** at Virtual University while actively contributing to the **Governor Sindh Initiative for Artificial Intelligence**.
+
+---
+
+## 💫 About Me
 
 - 🔭 Currently working as **Frontend Developer Intern** at Shaheen Marketing
 - 🌱 Learning **Web 3.0**, **Cloud Computing**, and **Advanced AI/ML**

@@ -110,7 +110,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### 💭 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;%E2%80%93+Cory+House)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=008000D&center=true&vCenter=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;%E2%80%93+Cory+House)](https://git.io/typing-svg)
 
 </div>

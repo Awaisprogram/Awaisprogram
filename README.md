@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-performa
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,bootstrap,python,fastapi,nodejs,postgres,mongo,postman,docker,git,github,docker,aws,vercel,vscode,linux&theme=dark" 
          alt="Frontend Skills" 
-         style="width: 600px; height: auto;" />
+         style="width: 2rem; height: 2rem;" />
   </p>
 </div>
 

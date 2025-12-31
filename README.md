@@ -2,8 +2,6 @@
 
 ### 🚀 Full-Stack Developer | AI Engineer | Open Source Enthusiast
 
-*Building intelligent, scalable web applications with modern technologies*
-
 I'm a passionate **Full-Stack Developer** specializing in building high-performance web applications with integrated AI capabilities. Currently pursuing my **BS in Software Engineering** at Virtual University while actively contributing to the **Governor Sindh Initiative for Artificial Intelligence**.
 
 ---
@@ -84,19 +82,6 @@ Intelligent chatbot powered by Generative AI for customer support and FAQ assist
 - Managing student activities and volunteer events
 - Facilitating collaboration and problem resolution
 - Streamlining communication between students and administration
-
----
-
-## 🌱 Currently Learning
-
-```typescript
-const currentFocus = {
-  technologies: ["Web 3.0", "Blockchain", "Smart Contracts"],
-  cloud: ["AWS", "GCP", "Serverless Architecture"],
-  ai: ["Advanced LLMs", "AI Agents", "Model Fine-tuning"],
-  tools: ["Docker", "Kubernetes", "CI/CD Pipelines"]
-};
-```
 
 ---
 

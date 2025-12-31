@@ -1,20 +1,12 @@
 # 👋 Hi there, I'm Awais Mehmood
 
-<div>
-  
-### 🚀 Full-Stack Developer | AI Engineer | Open Source Enthusiast
-
-*Building intelligent, scalable web applications with modern technologies*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://awaismehmood-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awais-mehmood-903500309/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisbinmehmoodahmed@gmail.com)
-
-</div>
-
 ---
 
 ## 💫 About Me
+
+### 🚀 Full-Stack Developer | AI Engineer | Open Source Enthusiast
+
+*Building intelligent, scalable web applications with modern technologies*
 
 I'm a passionate **Full-Stack Developer** specializing in building high-performance web applications with integrated AI capabilities. Currently pursuing my **BS in Software Engineering** at Virtual University while actively contributing to the **Governor Sindh Initiative for Artificial Intelligence**.
 
@@ -30,13 +22,13 @@ I'm a passionate **Full-Stack Developer** specializing in building high-performa
 ## 🛠️ Tech Stack
 
 <div>
-
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,bootstrap,python,fastapi,nodejs,postgres,mongo,postman,docker,git,github,docker,aws,vercel,vscode,linux&theme=dark" alt="Frontend Skills" />
-</p>
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,bootstrap,python,fastapi,nodejs,postgres,mongo,postman,docker,git,github,docker,aws,vercel,vscode,linux&theme=dark" 
+         alt="Frontend Skills" 
+         style="width: 600px; height: auto;" />
+  </p>
 </div>
+
 
 ---
 
@@ -63,11 +55,10 @@ Intelligent chatbot powered by Generative AI for customer support and FAQ assist
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AwaisMehmood&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisMehmood&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwaisMehmood&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awaisprogram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Top Languages](https://nirzak-streak-stats.vercel.app/?user=Awaisprogram&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisprogram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -122,14 +113,32 @@ const currentFocus = {
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awais-mehmood-903500309/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-000?style=for-the-badge&logo=vercel)](https://awaismehmood-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisbinmehmoodahmed@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/AwaisMehmood)
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/awais-mehmood-903500309/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40" />
+  </a>
+
+  <!-- Portfolio (Vercel icon) -->
+  <a href="https://awaismehmood-portfolio.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" width="40" height="40" />
+  </a>
+
+  <!-- Email (Gmail icon) -->
+  <a href="mailto:awaisbinmehmoodahmed@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="40" height="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/AwaisMehmood" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40" />
+  </a>
 
 </div>
+
+
 
 ---
 

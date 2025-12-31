@@ -51,12 +51,12 @@ Intelligent chatbot powered by Generative AI for customer support and FAQ assist
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awaisprogram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Top Languages](https://nirzak-streak-stats.vercel.app/?user=Awaisprogram&theme=dark&hide_border=false)<br/>
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisprogram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Awaisprogram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Awaisprogram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisprogram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 

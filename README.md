@@ -1,6 +1,6 @@
 <div style="background-color: black; padding: 20px; border-radius: 8px; color: white;">
   
-# 👋 Hi there, I'm Awais Mehmood (Ash Shaikh)  
+#👋 Hi there, I'm Awais Mehmood (Ash Shaikh)  
   
 ### 🚀 **Full-Stack Developer | AI Integration Specialist**  
 I specialize in building scalable, **high-performance web applications** using the modern stack. My focus is integrating **AI/LLM models** to deliver intelligent, feature-rich solutions and drive automation.

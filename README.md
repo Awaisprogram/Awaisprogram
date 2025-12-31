@@ -30,25 +30,6 @@ I'm a passionate **Full-Stack Developer** specializing in building high-performa
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎨 [Portfolio Website](https://awaismehmood-portfolio.vercel.app)
-Modern, responsive portfolio built with Next.js, TypeScript, and Tailwind CSS featuring smooth animations and dark mode.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS • Framer Motion
-
-### 🛒 [Bandage E-Commerce](https://marketplace-git-main-awaisprograms-projects.vercel.app)
-Full-featured e-commerce platform with product listings, cart functionality, and seamless checkout experience.
-
-**Tech:** Next.js • TypeScript • Shadcn UI • Tailwind CSS
-
-### 🤖 [AI Chatbot](https://simplechatbot-production.up.railway.app/)
-Intelligent chatbot powered by Generative AI for customer support and FAQ assistance.
-
-**Tech:** Chainlit • Python • OpenAI API • FastAPI
-
----
-
 ## 📊 GitHub Stats
 
 <div>
@@ -73,7 +54,7 @@ Intelligent chatbot powered by Generative AI for customer support and FAQ assist
 
 ## 🤝 Experience
 
-**💼 Frontend Developer Intern** | Shaheen Marketing *(Aug 2025 - Present)*
+**💼 Frontend Developer ** | Shaheen Marketing *(Aug 2025 - Present)*
 - Implementing responsive UI components with Next.js and React
 - Integrating RESTful APIs for seamless data flow
 - Optimizing features with Tailwind CSS for enhanced UX

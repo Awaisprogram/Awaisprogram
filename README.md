@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Awais Mehmood
 
-<div align="center">
+<div>
   
 ### 🚀 Full-Stack Developer | AI Engineer | Open Source Enthusiast
 
@@ -29,7 +29,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-performa
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ### Frontend
 <p>
@@ -38,7 +38,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-performa
 
 ### Backend & AI/ML
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres&theme=dark" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,openai,google&theme=dark" alt="Backend Skills" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="48" style="border-radius: 8px;" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white" alt="Gemini" height="48" style="border-radius: 8px;" />
 </p>

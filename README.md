@@ -54,7 +54,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-performa
 
 ## 🤝 Experience
 
-**💼 Frontend Developer ** | Shaheen Marketing *(Aug 2025 - Present)*
+**💼 Frontend Developer** | Shaheen Marketing *(Aug 2025 - Present)*
 - Implementing responsive UI components with Next.js and React
 - Integrating RESTful APIs for seamless data flow
 - Optimizing features with Tailwind CSS for enhanced UX

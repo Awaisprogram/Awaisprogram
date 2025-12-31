@@ -31,21 +31,9 @@ I'm a passionate **Full-Stack Developer** specializing in building high-performa
 
 <div>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark" alt="Frontend Skills" />
-</p>
 
-### Backend & AI/ML
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,openai,google&theme=dark" alt="Backend Skills" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="48" style="border-radius: 8px;" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white" alt="Gemini" height="48" style="border-radius: 8px;" />
-</p>
-
-### Tools & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" alt="Tools & DevOps" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,python,fastapi,nodejs,postgres,postman,docker,git,github,docker,aws,vercel,vscode,linux&theme=dark" alt="Frontend Skills" />
 </p>
 
 </div>
